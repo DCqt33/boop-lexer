@@ -270,7 +270,7 @@ moduleHeading
     ;
 
 keyword
-    : ABSTRACT    | ALIAS       | ALIAS      | BASE       | BOOL        | BREAK
+    : ABSTRACT    | ALIAS       | ALIAS      | BASE        | BOOL        | BREAK
     | CASE        | CATCH       | CHAR       | CLASS       | CONST
     | CONSTANT    | CONTINUE    | DEFAULT    | DICT        | DICTIONARY
     | DO          | DOUBLE      | ELSE       | ENUM        | ENUMERATION
